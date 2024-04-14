@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Notas" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--  Cor Primaria  -->
+        <item name="colorPrimary">@color/azul2</item>
+        <item name="colorPrimaryVariant">@color/azul1</item>
+        <item name="colorOnPrimary">@color/preto</item>
+        <!--  Cor Secundaria  -->
+        <item name="colorSecondary">@color/azul1</item>
+        <item name="colorSecondaryVariant">@color/azul2</item>
+        <item name="colorOnSecondary">@color/branco</item>
+        <!--  StatusBar Color  -->
+        <item name="android:statusBarColor">@color/azul2</item>
+    </style>
+</resources>
